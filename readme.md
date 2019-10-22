@@ -46,13 +46,14 @@ Clean example implementations of data structures and algorithms written in diffe
    * [Algorithm Design](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358)
    * [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=zg_bs_3870_3?_encoding=UTF8&psc=1&refRID=CBQSARF3C86P7FMQ4DEV)
    * [Algorithms](https://www.amazon.in/Algorithms-Robert-Sedgewick/dp/032157351X)
- * **Sites**
+   * **Sites**
    * [Algorithms - Tutorials point](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
    * [Algorithms - Princetone edu](http://algs4.cs.princeton.edu/home/)
    * [Data structures and algorithms - Hackr](https://hackr.io/tutorials/learn-data-structures-algorithms)
    * [Data science - Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)
    * [Fundamentals Of Algorithms- Geeks For Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
    * [Visual Algorithm - visualising data structures and algorithms through animation](https://visualgo.net/en)
+   * [Data Structures and algorithms](http://cp-algorithms.com/)
 * **Online classes (Free)**
   * Coursera 
       * [Introduction to algorithms Part 1](https://www.coursera.org/learn/introduction-to-algorithms)
@@ -83,6 +84,7 @@ Clean example implementations of data structures and algorithms written in diffe
     * [LeetCode](https://leetcode.com/)
     * [CodingGame](https://www.codingame.com/)
     * [CodeWars](https://codewars.com/)
+    * [Atcoder](https://atcoder.jp/)
 
 ## License
 
