@@ -9,3 +9,4 @@ To run the program, perform the following steps:
 	` g++ -std=c++11 -o lis lis.cpp`
 3. (This will run the code) On the terminal, type:
 	` ./lis `
+4.[sample problem](https://www.geeksforgeeks.org/box-stacking-problem-dp-22/) 
